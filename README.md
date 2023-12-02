@@ -10,4 +10,5 @@ on [Deno](https://deno.com).
 
 2. Place your puzzle input in a file called `input.txt` in that folder.
 
-3. Run `deno run --allow-read main.ts` in that folder.
+3. Run `deno run --allow-read <part>.ts` (replace `<part>` with the part you
+   want to run) in that folder.
